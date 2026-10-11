@@ -1,4 +1,4 @@
-![Economics Data Research Banner](%23%20ECONOMICS%20%C2%B7%20DATA%20%C2%B7%20RESEARCH.png)
+![Economics Data Research Banner](ECONOMICS%20%C2%B7%20DATA%20%C2%B7%20RESEARCH.png)
 
 # Economics · Data · Research 📊
 
