@@ -17,7 +17,7 @@ I use statistical methods, programming, and data visualization to investigate ec
 ## 📊 Featured Projects
 
 - **[Cyclistic Bike-Share Analysis](https://github.com/Mahfuza-Nadia/Case_Study_Bike-share-analysis)** — Analyzed 5.93 million rides using SQL, Microsoft Access, and Tableau to identify rider behavior patterns and develop an interactive dashboard. [View Dashboard](https://public.tableau.com/views/Case_Study_Rider-Behavior-Analysis/RiderBehaviorDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
- **[Exchange Rate & Inflation in Bangladesh](https://github.com/Mahfuza-Nadia/Various_Analysis_Projects/tree/main/Depreciation%20and%20Inflation%20in%20Bangladesh)** — Used R for time-series analysis, lagged regression models, diagnostic testing, and Newey–West inference and PowerBi for visualization. 
+- **[Exchange Rate & Inflation in Bangladesh](https://github.com/Mahfuza-Nadia/Various_Analysis_Projects/tree/main/Depreciation%20and%20Inflation%20in%20Bangladesh)** — Used R for time-series analysis, lagged regression models, diagnostic testing, and Newey–West inference and PowerBi for visualization. 
 - **[Bangladesh Protein Supply Trends](https://github.com/Mahfuza-Nadia/Various_Analysis_Projects/tree/main/Protein%20Supply%20Trend%20in%20Bangladesh)** — Used Python and Excel to examine protein supply trends and food-group contributions from 2010 to 2023.
 - **[COVID-19 Data Exploration](https://github.com/Mahfuza-Nadia/Various_Analysis_Projects/tree/main/Covid%20Dataset%20Exploration%20sql)** — Used SQL and Google BigQuery to explore COVID-19 case and death statistics.
 
@@ -29,8 +29,8 @@ I use statistical methods, programming, and data visualization to investigate ec
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/mahfuza-a-3a867b3bb)
-- **Email:** [Contact Me](mahfuzaakternadia27@gmail.com)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mahfuza-a-3a867b3bb/)
+- **Email:** mahfuzaakternadia27@gmail.com
 
 Interested in opportunities in **economic research, data analysis, and evidence-based policy research**.
 
