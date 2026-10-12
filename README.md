@@ -4,7 +4,7 @@
 
 Hi! I'm Nadia, an economics graduate, interested in applied economics, quantitative research, and data-driven policy analysis.
 
-I use statistical methods, programming, and data visualization to investigate economic questions and communicate evidence-based findings.
+I use econometric methods, programming, and data visualization to investigate economic questions and communicate evidence-based findings.
 
 ## 🛠️ Tools & Technologies
 
