@@ -1,3 +1,5 @@
+![Economics Data Research Banner](ECONOMICS_DATA_RESEARCH.png)
+
 # Economics · Data · Research 📊
 
 Hi! I'm Nadia, an economics graduate, interested in applied economics, quantitative research, and data-driven policy analysis.
